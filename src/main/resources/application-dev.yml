@@ -16,7 +16,7 @@ spring:
     url: jdbc:mariadb://172.16.0.231:3306/security?serverTimezone=Asia/Seoul
     username: cos
     password: cos1234
-
+#
 #  mvc:
 #    view:
 #      prefix: /templates/
